@@ -1,0 +1,53 @@
+.formEditar{
+    padding-top: 60px;
+    color:black;
+    width: 600px;
+    background-color: #D8849E;
+    height: 600px;
+    padding-left: 30px;
+    margin-left: 450px;
+    margin-top: 100px;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.formEditar form{
+    background-color: #EDE9DD;
+    font-size: 1.3vw;
+    margin-left: 30px;
+    width: 450px;
+    height: 550px;
+    margin-right: 30px;
+    padding-left: 50px;
+    border-radius: 15px 15px 15px 15px;
+    
+
+}
+.formEditar input{
+    margin-top: 30px;
+    
+
+}
+
+input[type="submit"]{
+
+    font-size: 1.3vw;
+    border-radius: 5px 5px 5px 5px;
+    height: 35px;
+    color: white;
+    background-color: #AF8016;
+}
+
+input[type="submit"]:hover {
+    background-color: #a98c49;
+
+}
+body{
+    background-color: #E8B594;
+}
+.formEditar a{
+    font-size: 1.3vw;
+    border-radius: 5px 5px 5px 5px;
+    height: 35px;
+    color: white;
+    background-color: #AF8016;
+}

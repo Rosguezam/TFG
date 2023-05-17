@@ -1,0 +1,48 @@
+.formAnadir{
+    padding-top: 60px;
+    color:black;
+    width: 600px;
+    background-color: #FFD077;
+    height: 600px;
+    padding-left: 30px;
+    margin-left: 450px;
+    margin-top: 100px;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.formAnadir form{
+    background-color: white;
+    font-size: 1.3vw;
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 450px;
+    height: 530px;
+    padding-left: 50px;
+    padding-top: 15px;
+    border-radius: 15px 15px 15px 15px;
+    
+
+}
+.formAnadir input{
+    margin-top: 30px;
+
+    
+
+}
+
+input[type="submit"]{
+
+    font-size: 1.3vw;
+    border-radius: 5px 5px 5px 5px;
+    height: 35px;
+    color: white;
+    background-color: #dca245;
+}
+
+input[type="submit"]:hover {
+    background-color: #e3b56a;
+
+}
+body{
+    background-color: #FFCDD2;
+}

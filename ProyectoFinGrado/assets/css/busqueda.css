@@ -1,0 +1,107 @@
+
+titulo{
+    background-color: #FFCDD2;
+    color: rgb(255, 249, 249);
+    font-size: 1.1vw;
+    font-family: RoxboroughCF;
+    font-weight: bold;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: fit-content;
+}
+
+.contenedor-titulo {
+    display: flex;
+    justify-content: center;
+    align-items:flex-start;
+    height: 65px;
+  }
+  
+  .titulo1 {
+    text-align: center;
+  }
+  .banda-color {
+    background-color: #FFD077; 
+    margin-top: 0px;
+    height: 27px; 
+    text-align: right;
+  }
+  
+
+  #logoutHome{
+    color: rgb(255, 249, 249);
+    text-decoration: none;
+  }
+  
+footer {
+    background-color: #FFCDD2;
+    color: hsl(0, 0%, 98%);
+    font-size: 0.8vw;
+    font-weight: bold;
+    position: fixed;/*es lo que hace que se mantenga abajo al scrolear*/
+    bottom:0;
+    left:0;
+    width: 100%;
+    height: fit-content;
+}
+
+
+center{
+    margin-top: 150px;
+    margin-bottom: 200px;
+}
+
+.material-icons{
+    
+    float: right;
+    color: white;
+    text-decoration: none;
+    padding: 0.1%;
+    
+  }
+
+  .tablaPastillero table{
+    
+    width: 80%;
+    border-collapse: collapse;
+    border:#FFD077 5px solid;
+    
+  }
+  .tablaPastillero tbody{
+    font-size: 1.3vw;
+   height: 200px;
+   text-align: center;
+  }
+
+  .tablaPastillero td{
+    border:#FFD077 3px solid;
+  }
+
+  .anadirPastilla{
+    background-color: #D68910;
+    width: 20%;
+    border-radius: 10px 10px 10px 10px;
+    height: 50px;
+  }
+
+  .anadirPastilla a{
+    font-size: 2.7vw;
+    color: white;
+    text-decoration: none;
+  }
+
+ .tr1{
+background-color: #f9e07f;
+color: white;
+ }
+  
+ .infopasti{
+  float: left;
+  font-size: 1vw;
+  text-decoration: none;
+  color: white;
+  margin-top: 2.7px;
+  margin-left: 3px;
+ }

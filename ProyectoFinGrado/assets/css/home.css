@@ -1,0 +1,88 @@
+
+titulo{
+    background-color: #FFCDD2;
+    color: rgb(255, 249, 249);
+    font-size: 1.1vw;
+    font-family: RoxboroughCF;
+    font-weight: bold;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: fit-content;
+}
+
+.contenedor-titulo {
+    display: flex;
+    justify-content: center;
+    align-items:flex-start;
+    height: 65px;
+  }
+  
+  .titulo1 {
+    text-align: center;
+  }
+  .banda-color {
+    background-color: #FFD077; 
+    margin-top: 0px;
+    height: 20px; 
+    text-align: right;
+  }
+  
+
+  #logoutHome{
+    color: rgb(255, 249, 249);
+    text-decoration: none;
+  }
+  
+footer {
+    background-color: #FFCDD2;
+    color: hsl(0, 0%, 98%);
+    font-size: 0.8vw;
+    font-weight: bold;
+    position: fixed;/*es lo que hace que se mantenga abajo al scrolear*/
+    bottom:0;
+    left:0;
+    width: 100%;
+    height: fit-content;
+}
+
+
+#authorInfo {
+    float: right;
+    text-align: right;
+}
+
+.d-item{
+    margin-top: 84px;
+    height: 500px;
+    
+}
+
+.d-img{
+    height: 100%;
+    object-fit: cover;
+    
+}
+.iconos{
+  
+  margin: 0 auto; 
+  width: 70%; 
+  padding:80px;
+}
+
+.espacio{
+  display: block;
+  margin-bottom: 10vw;
+}
+
+.espacio2{
+  display: block;
+  margin-bottom: 5vw;
+}
+
+.puerta{
+  float: right;
+  width: 3%;
+  bottom: 0;
+}
